@@ -1,0 +1,12 @@
+.row {
+    margin-right: 0 !important;
+  }
+
+.navbar{
+  height: 80px;
+}
+.filter{
+  background-color: #00142B;
+  height: 100vh;
+  top: 80px;
+}
